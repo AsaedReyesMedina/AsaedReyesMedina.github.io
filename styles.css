@@ -23,9 +23,9 @@
   }
 }
 .borde{
-  border-radius: 36px 36px 36px 36px;
--moz-border-radius: 36px 36px 36px 36px;
--webkit-border-radius: 36px 36px 36px 36px;
+  border-radius: 17px 17px 17px 17px;
+  -moz-border-radius: 17px 17px 17px 17px;
+  -webkit-border-radius: 17px 17px 17px 17px;
 
 }
 .borde-texto{
