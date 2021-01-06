@@ -3,6 +3,7 @@
 .icon {
   width: 20px;
   height: 20px;
+  
 }
 @media (max-width: 600px) {
   .video-js {
