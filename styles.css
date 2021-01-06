@@ -1,0 +1,62 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Fredoka+One&family=PT+Sans:ital@1&family=ZCOOL+QingKe+HuangYou&display=swap');
+.icon {
+  width: 20px;
+  height: 20px;
+}
+@media (max-width: 600px) {
+  .video-js {
+    width: 340px;
+    height: 464px;
+  }
+}
+@media (max-width: 800px) {
+  .video-js {
+    width: 340px;
+    height: 464px;
+  }
+}
+@media (min-width: 1200px) {
+  .video-js {
+    width: 340px;
+    height: 464px;
+  }
+}
+.borde{
+  border-radius: 36px 36px 36px 36px;
+-moz-border-radius: 36px 36px 36px 36px;
+-webkit-border-radius: 36px 36px 36px 36px;
+
+}
+.borde-texto{
+  border-radius: 8px 8px 8px 8px;
+-moz-border-radius: 8px 8px 8px 8px;
+-webkit-border-radius: 8px 8px 8px 8px;
+}
+.texto-titulos{
+  font-family: 'Anton', sans-serif;
+}
+.texto-normal{
+  font-family: 'Bebas Neue', cursive;
+}
+.texto-parrafos{
+  font-family: 'Fredoka One', cursive;
+}
+.tarjetas:hover{
+  border-radius: 27px 27px 27px 27px;
+  -moz-border-radius: 27px 27px 27px 27px;
+  -webkit-border-radius: 27px 27px 27px 27px;
+
+  -webkit-box-shadow: 10px 10px 24px -6px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 24px -6px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 24px -6px rgba(0,0,0,0.75);
+}
+.tituloprincipal{
+  font-size: 550%;
+}
+.titulosecundario{
+  font-size: 300%;
+}
+.titulodescriptivo{
+  
+}
