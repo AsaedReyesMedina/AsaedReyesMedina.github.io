@@ -59,7 +59,7 @@ box-shadow: 10px 10px 24px -6px rgba(0,0,0,0.75);
   font-size: 300%;
 }
 
-.hover03 figure img {
+.hover03  img {
 	-webkit-transform: scale(1.3);
 	transform: scale(1.3);
 	-webkit-transition: .3s ease-in-out;
